@@ -55,6 +55,30 @@ The Cognizant Digital Nurture 5.0 JavaFSE program is designed to provide compreh
 - JPA vs Hibernate vs Spring Data JPA comparison
 - Country management application with REST APIs
 
+### Week 3
+
+**Spring REST Hands-on**
+- Building RESTful web services with Spring
+- Creating hello-world and country web services
+- Implementing GET endpoints and request mapping
+- JWT authentication hands-on implementation
+
+### Week 4
+
+**Microservices and Service Discovery**
+- Creating microservices for account and loan services
+- Service-to-service communication concepts
+- Eureka Discovery Server setup
+- Basic distributed system architecture practice
+
+### Week 5
+
+**React Hands-on Applications**
+- Building React projects with functional components
+- State management and event handling in React
+- Creating small applications such as blog app, student app, score calculator, ticket booking app, and cohort tracker
+- UI development and component-based design practice
+
 ## Technologies Covered
 
 - **Java**: Core language features and advanced concepts
@@ -104,16 +128,35 @@ Cognizant-Digital-Nurture-5.0-JavaFSE/
 │   ├── Mockito exercises/
 │   ├── PLSQL_Exercises/
 │   └── SL4J Logging exercises/
-└── Week-2/
-    ├── 1. Spring Core and Maven/
-    │   ├── 01_Library_Management/
-    │   ├── 02_Dependency_Injection/
-    │   ├── 04_Config_Maven_Project/
-    │   └── Outputs/
-    └── 2. Spring Data JPA/
-        ├── 1. Handson 1 Spring Data JPA/
-        ├── 4. Handson 4 Difference between JPA, Hibernate and Spring Data JPA/
-        └── Outputs/
+├── Week-2/
+│   ├── 1. Spring Core and Maven/
+│   │   ├── 01_Library_Management/
+│   │   ├── 02_Dependency_Injection/
+│   │   ├── 04_Config_Maven_Project/
+│   │   └── Outputs/
+│   └── 2. Spring Data JPA/
+│       ├── 1. Handson 1 Spring Data JPA/
+│       ├── 4. Handson 4 Difference between JPA, Hibernate and Spring Data JPA/
+│       └── Outputs/
+├── Week-3/
+│   ├── 01_Spring_Rest_Handson/
+│   ├── 02_Spring_Rest_Handson/
+│   └── 05_JWT_Handson/
+├── Week-4/
+│   ├── 1. Creating Microservices for account and loan/
+│   ├── 2. Eureka Discovery Server/
+│   └── Outputs/
+└── Week-5/
+    ├── 01_Handson_1/
+    ├── 02_Handson_2/
+    ├── 03_Handson_3/
+    ├── 04_Handson_4/
+    ├── 05_Handson_5/
+    ├── 09_Handson_9/
+    ├── 10_Handson_10/
+    ├── 11_Handson_11/
+    ├── 12_Handson_12/
+    └── 13_Handson_13/
 ```
 
 ## Learning Outcomes
