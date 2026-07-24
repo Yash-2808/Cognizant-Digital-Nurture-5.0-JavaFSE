@@ -79,10 +79,22 @@ The Cognizant Digital Nurture 5.0 JavaFSE program is designed to provide compreh
 - Creating small applications such as blog app, student app, score calculator, ticket booking app, and cohort tracker
 - UI development and component-based design practice
 
+### Week 6
+
+**Advanced React Applications**
+- Building complex React applications
+- Cricket app with advanced state management
+- Office space rental application
+- Event examples and interactive components
+- Ticket booking system with React
+- Blogger app with full CRUD operations
+- Advanced component patterns and hooks
+
 ## Technologies Covered
 
 - **Java**: Core language features and advanced concepts
-- **Spring Framework**: Core, Data JPA
+- **Spring Framework**: Core, Data JPA, REST APIs
+- **React**: Functional components, state management, hooks
 - **Maven**: Build automation and dependency management
 - **JUnit**: Unit testing framework
 - **Mockito**: Mocking framework for testing
@@ -91,6 +103,8 @@ The Cognizant Digital Nurture 5.0 JavaFSE program is designed to provide compreh
 - **Design Patterns**: Gang of Four patterns
 - **Data Structures**: Arrays, Lists, Maps, Sets, etc.
 - **Algorithms**: Sorting, searching, optimization
+- **Microservices**: Service discovery with Eureka, inter-service communication
+- **JWT**: Authentication and authorization
 
 ## Getting Started
 
@@ -146,17 +160,20 @@ Cognizant-Digital-Nurture-5.0-JavaFSE/
 │   ├── 1. Creating Microservices for account and loan/
 │   ├── 2. Eureka Discovery Server/
 │   └── Outputs/
-└── Week-5/
-    ├── 01_Handson_1/
-    ├── 02_Handson_2/
-    ├── 03_Handson_3/
-    ├── 04_Handson_4/
-    ├── 05_Handson_5/
-    ├── 09_Handson_9/
-    ├── 10_Handson_10/
-    ├── 11_Handson_11/
-    ├── 12_Handson_12/
-    └── 13_Handson_13/
+├── Week-5/
+│   ├── 01_Handson_1/ (myfirstreact)
+│   ├── 02_Handson_2/ (studentapp)
+│   ├── 03_Handson_3/ (scorecalculatorapp)
+│   ├── 04_Handson_4/ (blogapp)
+│   ├── 05_Handson_5/ (cohorttracker)
+│   └── Output/
+└── Week-6/
+    ├── 09_Handson_9/ (cricketapp)
+    ├── 10_Handson_10/ (officespacerentalapp)
+    ├── 11_Handson_11/ (eventexamplesapp)
+    ├── 12_Handson_12/ (ticketbookingapp)
+    ├── 13_Handson_13/ (bloggerapp)
+    └── Output/
 ```
 
 ## Learning Outcomes
@@ -165,10 +182,14 @@ Cognizant-Digital-Nurture-5.0-JavaFSE/
 - Understanding of design patterns and their practical applications
 - Proficiency in unit testing and mocking frameworks
 - Experience with database programming using PL/SQL
-- Knowledge of Spring Framework ecosystem
+- Knowledge of Spring Framework ecosystem (Core, Data JPA, REST APIs)
 - Expertise in building RESTful APIs with Spring Data JPA
 - Mastery of Maven build automation
 - Best practices in logging and error handling
+- Advanced React development skills including component design and state management
+- Experience in building full-stack applications with Java backend and React frontend
+- Microservices architecture knowledge with service discovery patterns
+- JWT-based authentication and authorization implementation
 
 ## Author
 
